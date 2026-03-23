@@ -1,10 +1,10 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+## 0.1.1
 
-## [0.1.0] - 2026-03-21
+- Standardize package metadata, badges, and CHANGELOG
 
-### Added
+## 0.1.0
 
 - `parse()` — parse CSS color strings (hex, rgb, hsl, named colors)
 - `toHex()` — convert Color to hex string

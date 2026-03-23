@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/ts-color-string/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-color-string/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/color-string)](https://www.npmjs.com/package/@philiprehberger/color-string)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-color-string)](LICENSE)
 
 Parse and stringify CSS color values -- hex, rgb, hsl, and named colors.
 

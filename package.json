@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/color-string",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parse and stringify CSS color values — hex, rgb, hsl, and named colors",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -37,7 +37,7 @@
     "rgb",
     "hsl"
   ],
-  "author": "philiprehberger",
+  "author": "Philip Rehberger",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -48,7 +48,7 @@
   },
   "homepage": "https://github.com/philiprehberger/ts-color-string#readme",
   "engines": {
-    "node": ">=18"
+    "node": ">=18.0.0"
   },
   "devDependencies": {
     "tsup": "^8.0.0",
